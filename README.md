@@ -1,0 +1,17 @@
+<div align="center">
+    <h2>Universidad Nacional Autónoma de México</h2>
+    <h3>Facultad de Ingeniería</h3>
+    <h4>División de Ingeniería Eléctrica</h4>
+    <h4>Ingeniería en Computación</h4>
+    <h3>Computación Gráfica e Interacción Humano Computadora</h3>
+</div>
+
+---
+
+<h3 align="center">Control de Versiones</h3>
+
+**Nombre Completo:** Buendía López Sebastián
+**N° de Cuenta:** 320014932
+**Grupo de Laboratorio:** 02
+**Grupo de Teoría:** 06
+**Semestre:** 2026-2
